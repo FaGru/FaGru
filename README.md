@@ -4,4 +4,4 @@
  
  
  ## Languages
-![JavaScript](https://upload.wikimedia.org/wikipedia/commons/d/d4/Javascript-shield.svg =20x20)
+<img src="https://upload.wikimedia.org/wikipedia/commons/d/d4/Javascript-shield.svg " alt="JavaScript" style="width:20px;"/>
