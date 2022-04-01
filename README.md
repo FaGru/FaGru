@@ -1,6 +1,6 @@
   # Fabian Gruber
   
- * I'm currently learning web development at [neuefische.de](https://www.neuefische.de/)
+After I got more and more involved with some programming languages in various tutorials, I realized that I wanted to pursue a new career path. Then I decided to go my new way to become a web developer at [neuefische.de](https://www.neuefische.de/).
 
 
  
@@ -10,6 +10,7 @@
 
 ## Statistic
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=FaGru&theme=dark)](https://git.io/streak-stats) [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FaGru&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=FaGru&theme=dark)](https://git.io/streak-stats) [![FaGrus's GitHub stats](https://github-readme-stats.vercel.app/api?username=FaGru&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-<div align="center">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FaGru&theme=dark)</div> 
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FaGru&theme=dark)
