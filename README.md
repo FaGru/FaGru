@@ -14,7 +14,7 @@ After I got more and more involved with some programming languages in various tu
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FaGru&theme=dark)
 
-
+<div styles="background-color: red;">
 <img src="https://user-images.githubusercontent.com/95469432/162691438-c56f8264-79d2-4275-9eef-6ecaea4b08c0.svg" alt="react" height="40px" width="40px"/>
 <img src="https://user-images.githubusercontent.com/95469432/162691440-12bbdd4b-51db-4528-9fde-cf8b814ff789.svg" alt="typescript" height="40px" width="40px"/>
 <img src="https://user-images.githubusercontent.com/95469432/162691445-8b8b688f-5063-4704-8bf3-f4440f893855.svg" alt="javascript" height="40px" width="40px"/>
@@ -25,4 +25,4 @@ After I got more and more involved with some programming languages in various tu
 <img src="https://user-images.githubusercontent.com/95469432/162691451-172bd18a-bf4c-43f3-abd3-b1773f39a24b.svg" alt="npm" height="40px" width="40px"/>
 <img src="https://user-images.githubusercontent.com/95469432/162691431-6059a0c3-43fc-49b0-9c22-bda2866b7840.svg" alt="node-js" height="40px" width="40px"/>
 <img src="https://user-images.githubusercontent.com/95469432/162691420-134a6dd5-11d8-4f31-96c8-72e60c1bff17.svg" alt="mongo-db" height="40px" width="40px"/>
-
+</div>
