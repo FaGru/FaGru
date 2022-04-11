@@ -6,7 +6,7 @@ After I got more and more involved with some programming languages in various tu
  
  ## Technologies
 
-<div>
+<div style="margin: 5px">
 <img src="https://user-images.githubusercontent.com/95469432/162691438-c56f8264-79d2-4275-9eef-6ecaea4b08c0.svg" alt="react" height="50px" width="50px"/>
 <img src="https://user-images.githubusercontent.com/95469432/162691440-12bbdd4b-51db-4528-9fde-cf8b814ff789.svg" alt="typescript" height="50px" width="50px"/>
 <img src="https://user-images.githubusercontent.com/95469432/162691445-8b8b688f-5063-4704-8bf3-f4440f893855.svg" alt="javascript" height="50px" width="50px"/>
