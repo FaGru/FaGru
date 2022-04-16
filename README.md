@@ -18,6 +18,7 @@ After I got more and more involved with some programming languages in various tu
 ![MongoDB](https://img.shields.io/badge/-MongoDB-000?logo=MongoDB)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000?logo=TypeScript)
 ![TypeScript](https://img.shields.io/badge/-Jest-000?logo=Jest)
+![TypeScript](https://img.shields.io/badge/-Storybook-000?logo=Storybook)
 
 ## Statistic
 
