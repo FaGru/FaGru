@@ -2,7 +2,7 @@
   
 After I got more and more involved with some programming languages in various tutorials, I realized that I wanted to pursue a new career path. Then I decided to go my new way to become a web developer at [neuefische.de](https://www.neuefische.de/).
 
-
+👨‍💻 I am currently learning TypeScript and VueJS.
 
 ## Languages
 
