@@ -12,14 +12,16 @@ After I got more and more involved with some programming languages in various tu
 
 ## Technologies and frameworks
 
-![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
+![TypeScript](https://img.shields.io/badge/-TypeScript-000?logo=TypeScript)
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
+![Storybook](https://img.shields.io/badge/-Storybook-000?logo=Storybook)
+![Jest](https://img.shields.io/badge/-Jest-000?logo=Jest)
+![npm](https://img.shields.io/badge/-npm-000?logo=npm)
+![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
 ![Express.js](https://img.shields.io/badge/-Expressjs-000?logo=Express)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-000?logo=MongoDB)
-![TypeScript](https://img.shields.io/badge/-TypeScript-000?logo=TypeScript)
-![TypeScript](https://img.shields.io/badge/-Jest-000?logo=Jest)
-![TypeScript](https://img.shields.io/badge/-Storybook-000?logo=Storybook)
-![TypeScript](https://img.shields.io/badge/-npm-000?logo=npm)
+
+
 
 ## Statistic
 
